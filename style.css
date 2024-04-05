@@ -1,0 +1,24 @@
+
+.txt-titulo{
+
+    text-align: center;
+
+    color: black;
+    background-color: #4ea93b;
+}
+
+.txt-descrpcion{
+
+    text-align: center;
+
+    display: none;
+
+    display: block;
+}
+
+body{
+
+    background-color: #b4ff9a;
+}
+
+
